@@ -2,7 +2,7 @@
 
 This Ecommerce System Simulator sells numerous types of products to registered customers. Customers can order a product of their choice and the system will help ship it to them. In addition, registered users, active orders, and shipped orders are all tracked by the system.
 
-This system allows you to order products, such as shoes, books, clothing, furniture, computers etc. Products can then be shipped once ordered and can even be cancelled. I also added a Cart feature where each customer possesses their own cart, where they can add products, remove products from their cart and then order all products in their cart.
+The product consists of shoes, books, clothing, furniture, computers etc. Products can then be shipped once ordered and can even be cancelled. I also added a Cart feature where each customer has their own cart, where they can add products, remove products from their cart and order all the products in their cart.
 
 The ECommerceUserInterface is the class with the main() method and is the user interaction part.
 
